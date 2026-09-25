@@ -5,3 +5,6 @@ Moving into 2018 through 2020, as aggregate demand softened and price indices sl
 That low-rate environment was abruptly interrupted by the pandemic and subsequent global commodity shocks, forcing an aggressive monetary tightening cycle from 2020 to 2022 where rates were rapidly pushed back to 6.5% to combat imported cost-push inflation.
 
 Finally, the 2022 to 2025 period highlights textbook monetary transmission lags in action, showing how keeping real interest rates elevated for a sustained stretch successfully reined in the headline CPI trajectory and set up the eventual policy pause.
+
+![India Macro Trends](India.png)
+
