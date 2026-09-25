@@ -1,4 +1,4 @@
-he journey kicks off around 2013 to 2016 when RBI data shows policy rates leaning heavily near 8.0% to anchor wild inflation expectations and steer the economy through a disinflationary transition before letting up as price pressures cooled.
+The journey kicks off around 2013 to 2016 when RBI data shows policy rates leaning heavily near 8.0% to anchor wild inflation expectations and steer the economy through a disinflationary transition before letting up as price pressures cooled.
 
 Moving into 2018 through 2020, as aggregate demand softened and price indices slowed, policymakers executed a sharp pivot toward easing, driving the repo rate down to a historic 4.0% floor to kickstart investment and close the output gap.
 
